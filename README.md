@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chris Sutherland
 
-**Full-Stack Developer | AI Solutions Architect | Healthcare Technology Specialist**
+**Full-Stack Developer | Solutions Architect | Healthcare Technology Specialist**
 
 Specializing in React, Python, C#/.NET, Go, and Rust with a focus on AI-driven healthcare solutions, FHIR/HL7 integration, and cloud architecture.
 
